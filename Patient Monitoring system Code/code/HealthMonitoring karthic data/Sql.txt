@@ -1,0 +1,5 @@
+http://localhost/health/gethearthrate.php?patientid=00002
+
+http://192.168.2.4/health/setdescription.php?pid=00002&did=00001&desc=hellofianl1
+
+http://localhost/health/gethearthrate.php?patientid=00002
